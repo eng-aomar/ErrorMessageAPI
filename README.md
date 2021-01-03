@@ -1,1 +1,1 @@
-Message API
+This is a Message API
